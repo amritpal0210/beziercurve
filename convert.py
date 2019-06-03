@@ -130,6 +130,7 @@ def kubisch(listofpoints, list_t):
 
     return c0x_list, c0y_list
 
+# [2, 2], [6, 8], [10, 8], [12, 4] are 4 Points with [X,Y] 
 
 LIST_T = range_t([2, 2], [6, 8], [10, 8], [12, 4], 0.1)
 
